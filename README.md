@@ -6,8 +6,8 @@
 ---
 
 <div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage,prs_merged" alt="GitHub Stats" class="stat-box">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut&theme=dracula" alt="Top Languages" class="stat-box">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=dark&hide=issues&show=prs_merged_percentage,prs_merged" alt="GitHub Stats" class="stat-box">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut&theme=dark" alt="Top Languages" class="stat-box">
 </div>
 
 ---
