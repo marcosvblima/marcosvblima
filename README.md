@@ -6,8 +6,8 @@
 ---
 
 <div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=dark&hide=issues&show=prs_merged_percentage,prs_merged" alt="GitHub Stats" class="stat-box">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut&theme=dark" alt="Top Languages" class="stat-box">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=tokyonight&hide=issues&show=prs_merged_percentage,prs_merged&cache_seconds=10" alt="GitHub Stats" class="stat-box">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut&theme=tokyonight&cache_seconds=10" alt="Top Languages" class="stat-box">
 </div>
 
 ---
@@ -28,5 +28,3 @@
 ---
 
 ⭐️ Se você gostou, deixe uma estrela no meu [GitHub](https://github.com/Marcos-System)!
-
-
