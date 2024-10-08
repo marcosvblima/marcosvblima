@@ -1,6 +1,30 @@
 ### Olá, Sou o Marcos!
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusername)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=tokyonight&hide=issues&show=prs_merged_percentage,prs_merged)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=dracula&hide=issues&show=prs_merged_percentage,prs_merged" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=donut&theme=dracula" alt="Top Languages" width="37.5%">
+</div>
+
+---
+
+### Habilidades em:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Materialize-E64A19?style=for-the-badge&logo=material-design&logoColor=white" alt="Materialize" style="margin: 5px;">
+</div>
+
+---
+
+⭐️ Se você gostou, deixe uma estrela no meu [GitHub](https://github.com/Marcos-System)!
