@@ -29,34 +29,4 @@
 
 ⭐️ Se você gostou, deixe uma estrela no meu [GitHub](https://github.com/Marcos-System)!
 
-<style>
-  /* Estilos base */
-  .stats-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 20px;
-  }
 
-  .stat-box {
-    max-width: 48%;
-    margin: 10px;
-  }
-
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .skill {
-    margin: 5px;
-  }
-
-  /* Media Query para telas pequenas (ex: celulares) */
-  @media (max-width: 768px) {
-    .stat-box {
-      max-width: 100%; /* Stats ocupam 100% da largura em telas pequenas */
-    }
-  }
-</style>
