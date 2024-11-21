@@ -6,8 +6,8 @@
 ---
 
 <div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=dark&hide=issues&show=prs_merged" alt="GitHub Stats" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=compact&theme=dark" alt="Top Languages" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-System&show_icons=true&theme=light&hide=issues&show=prs_merged" alt="GitHub Stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-System&layout=compact&theme=light" alt="Top Languages" >
 </div>
 
 ---
