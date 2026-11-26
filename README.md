@@ -42,18 +42,14 @@ Frontend
 <img src="https://streak-stats.demolab.com?user=marcosvblima&theme=tokyonight&hide_border=true&locale=pt_BR" width="100%" alt="GitHub Streak"/>
 </div>
 
-Contribuições
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosvblima&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Marcos%20Lima's%20Contribution%20Graph" width="100%" alt="Gráfico de contribuições"/>
 </div>
 
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marcosvblima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" width="100%" alt="GitHub Profile Trophies"/>
-</div>
 
-Entre em contato
+
+
 
 <div align="center">
 <a href="mailto:silvamarcos6287@gmail.com">
